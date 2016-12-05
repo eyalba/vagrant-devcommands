@@ -1,0 +1,4 @@
+de:
+  vagrant_devcommands:
+    message:
+      missing_commandfile: "Fehlende Commandfile"
